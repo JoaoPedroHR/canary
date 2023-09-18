@@ -80,8 +80,8 @@ local potions = {
 	},
 	[236] = {
 		health = {
-			250,
 			350,
+			500,
 		},
 		vocations = {
 			VOCATION.BASE_ID.PALADIN,
@@ -93,8 +93,8 @@ local potions = {
 	},
 	[237] = {
 		mana = {
-			115,
-			185,
+			300,
+			600,
 		},
 		level = 50,
 		flask = 283,
@@ -102,8 +102,8 @@ local potions = {
 	},
 	[238] = {
 		mana = {
-			150,
-			250,
+			300,
+			500,
 		},
 		vocations = {
 			VOCATION.BASE_ID.SORCERER,
@@ -116,8 +116,8 @@ local potions = {
 	},
 	[239] = {
 		health = {
-			425,
-			575,
+			500,
+			750,
 		},
 		vocations = {
 			VOCATION.BASE_ID.KNIGHT,
@@ -128,26 +128,26 @@ local potions = {
 	},
 	[266] = {
 		health = {
-			125,
-			175,
+			200,
+			300,
 		},
 		flask = 285,
 	},
 	[268] = {
 		mana = {
-			75,
-			125,
+			150,
+			300,
 		},
 		flask = 285,
 	},
 	[7642] = {
 		health = {
-			250,
 			350,
+			450,
 		},
 		mana = {
-			100,
 			200,
+			300,
 		},
 		vocations = {
 			VOCATION.BASE_ID.PALADIN,
@@ -157,7 +157,7 @@ local potions = {
 		description = "Only paladins of level 80 or above may drink this fluid.",
 	},
 	[7643] = {
-		health = { 650, 850 },
+		health = { 850, 1150 },
 		vocations = {
 			VOCATION.BASE_ID.KNIGHT,
 		},
@@ -171,15 +171,15 @@ local potions = {
 	},
 	[7876] = {
 		health = {
-			60,
-			90,
+			80,
+			110,
 		},
 		flask = 285,
 	},
 	[23373] = {
 		mana = {
-			425,
-			575,
+			650,
+			900,
 		},
 		vocations = {
 			VOCATION.BASE_ID.SORCERER,
@@ -191,12 +191,12 @@ local potions = {
 	},
 	[23374] = {
 		health = {
-			420,
-			580,
+			520,
+			680,
 		},
 		mana = {
-			250,
-			350,
+			450,
+			550,
 		},
 		vocations = {
 			VOCATION.BASE_ID.PALADIN,
@@ -207,8 +207,8 @@ local potions = {
 	},
 	[23375] = {
 		health = {
-			875,
-			1125,
+			1175,
+			1325,
 		},
 		vocations = {
 			VOCATION.BASE_ID.KNIGHT,
