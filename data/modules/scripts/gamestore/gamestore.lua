@@ -15,20 +15,48 @@ HomeBanners = {
 }
 
 GameStore.Categories = {
-	-- Premium Time
+-- Premium Time
 	{
 		icons = { "Category_PremiumTime.png" },
-		name = "VIP Account",
+		name = premiumCategoryName,
 		rookgaard = true,
 		state = GameStore.States.STATE_NONE,
 		offers = {
 			{
+				icons = { "Premium_Time_30.png" },
+				name = string.format("30 Days of %s", premiumOfferName),
+				price = 250,
+				id = 3030,
+				validUntil = 30,
+				description = premiumDescription,
+				type = GameStore.OfferTypes.OFFER_TYPE_PREMIUM,
+			},
+			{
+				icons = { "Premium_Time_90.png" },
+				name = string.format("90 Days of %s", premiumOfferName),
+				price = 750,
+				id = 3090,
+				validUntil = 90,
+				description = premiumDescription,
+				type = GameStore.OfferTypes.OFFER_TYPE_PREMIUM,
+			},
+			{
+				icons = { "Premium_Time_180.png" },
+				name = string.format("180 Days of %s", premiumOfferName),
+				price = 1500,
+				id = 3180,
+				validUntil = 180,
+				description = premiumDescription,
+				type = GameStore.OfferTypes.OFFER_TYPE_PREMIUM,
+			},
+			{
 				icons = { "Premium_Time_360.png" },
-				name = "30 Days of VIP Account",
-				price = 300,
-				itemtype = 14758,
-				count = 1,
-				type = GameStore.OfferTypes.OFFER_TYPE_ITEM,
+				name = string.format("360 Days of %s", premiumOfferName),
+				price = 3000,
+				id = 3360,
+				validUntil = 360,
+				description = premiumDescription,
+				type = GameStore.OfferTypes.OFFER_TYPE_PREMIUM,
 			},
 		},
 	},
