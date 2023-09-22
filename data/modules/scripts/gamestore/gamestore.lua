@@ -1183,6 +1183,15 @@ GameStore.Categories = {
 		  count = 1,
           type = GameStore.OfferTypes.OFFER_TYPE_ITEM,
         },
+		{              
+          icons = { "13.png" },
+          name = "Bass",
+          price = 30,                
+          itemtype = 32043,
+		  description = "Infinity food!",
+		  count = 1,
+          type = GameStore.OfferTypes.OFFER_TYPE_ITEM,
+        },
       },
 	},
 	-- Cosmetics

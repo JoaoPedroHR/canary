@@ -54703,6 +54703,8 @@
 	<item fromid="32036" toid="32038" name="reserved sprite"/>
 	<item fromid="32039" toid="32042" name="unknown"/>
 	<item id="32043" article="a" name="bass">
+		<attribute key="description" value="infinity food"/>
+		<attribute key="showCount" value="0"/>
 		<attribute key="primarytype" value="food"/>
 		<attribute key="showCount" value="1"/>
 		<attribute key="weight" value="1250"/>
