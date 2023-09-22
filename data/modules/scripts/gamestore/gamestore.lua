@@ -1072,7 +1072,7 @@ GameStore.Categories = {
 			},
 		},
 	},
-		-- Itens
+	-- Itens
 	{
 		icons = { "xd.png" },
 		name = "Itens",
