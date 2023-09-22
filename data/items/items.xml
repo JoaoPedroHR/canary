@@ -2089,235 +2089,386 @@
 		<attribute key="primarytype" value="constructions"/>
 	</item>
 	<item id="779" article="an" name="earth spike sword">
-		<attribute key="primarytype" value="sword weapons"/>
-		<attribute key="elementearth" value="4"/>
-		<attribute key="attack" value="20"/>
+		<attribute key="elementearth" value="12"/>
+		<attribute key="attack" value="12"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="21"/>
 		<attribute key="weight" value="5000"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost sword" value="3"/>
+		</attribute>
 	</item>
 	<item id="780" article="an" name="earth relic sword">
-		<attribute key="primarytype" value="sword weapons"/>
-		<attribute key="elementearth" value="8"/>
-		<attribute key="attack" value="34"/>
+		<attribute key="elementearth" value="24"/>
+		<attribute key="attack" value="18"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="24"/>
 		<attribute key="weight" value="4800"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost sword" value="3"/>
+		</attribute>
 	</item>
 	<item id="781" article="an" name="earth mystic blade">
-		<attribute key="primarytype" value="sword weapons"/>
-		<attribute key="elementearth" value="8"/>
-		<attribute key="attack" value="36"/>
+		<attribute key="elementearth" value="24"/>
+		<attribute key="attack" value="20"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="weight" value="3500"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost sword" value="3"/>
+		</attribute>
 	</item>
 	<item id="782" article="an" name="earth blacksteel sword">
-		<attribute key="primarytype" value="sword weapons"/>
-		<attribute key="elementearth" value="7"/>
-		<attribute key="attack" value="35"/>
+		<attribute key="elementearth" value="21"/>
+		<attribute key="attack" value="21"/>
 		<attribute key="defense" value="22"/>
 		<attribute key="weight" value="5900"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost sword" value="3"/>
+		</attribute>
 	</item>
 	<item id="783" article="an" name="earth dragon slayer">
-		<attribute key="primarytype" value="sword weapons"/>
-		<attribute key="elementearth" value="9"/>
-		<attribute key="attack" value="35"/>
+		<attribute key="elementearth" value="27"/>
+		<attribute key="attack" value="17"/>
 		<attribute key="defense" value="28"/>
 		<attribute key="weight" value="8200"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost sword" value="3"/>
+		</attribute>
 	</item>
 	<item id="784" article="an" name="earth barbarian axe">
-		<attribute key="primarytype" value="axe weapons"/>
-		<attribute key="elementearth" value="5"/>
-		<attribute key="attack" value="23"/>
+		<attribute key="elementearth" value="15"/>
+		<attribute key="attack" value="13"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="18"/>
 		<attribute key="weight" value="5100"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost axe" value="3"/>
+		</attribute>
 	</item>
 	<item id="785" article="an" name="earth knight axe">
-		<attribute key="primarytype" value="axe weapons"/>
-		<attribute key="elementearth" value="6"/>
-		<attribute key="attack" value="27"/>
+		<attribute key="elementearth" value="18"/>
+		<attribute key="attack" value="15"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="21"/>
 		<attribute key="weight" value="5900"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost axe" value="3"/>
+		</attribute>
 	</item>
 	<item id="786" article="an" name="earth heroic axe">
-		<attribute key="primarytype" value="axe weapons"/>
-		<attribute key="elementearth" value="9"/>
-		<attribute key="attack" value="35"/>
+		<attribute key="elementearth" value="27"/>
+		<attribute key="attack" value="17"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="24"/>
 		<attribute key="weight" value="6100"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost axe" value="3"/>
+		</attribute>
 	</item>
 	<item id="787" article="an" name="earth headchopper">
-		<attribute key="primarytype" value="axe weapons"/>
-		<attribute key="elementearth" value="8"/>
-		<attribute key="attack" value="34"/>
+		<attribute key="elementearth" value="24"/>
+		<attribute key="attack" value="18"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="4500"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost axe" value="3"/>
+		</attribute>
 	</item>
 	<item id="788" article="an" name="earth war axe">
-		<attribute key="primarytype" value="axe weapons"/>
-		<attribute key="elementearth" value="9"/>
-		<attribute key="attack" value="39"/>
+		<attribute key="elementearth" value="27"/>
+		<attribute key="attack" value="21"/>
 		<attribute key="defense" value="10"/>
 		<attribute key="weight" value="6150"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost axe" value="3"/>
+		</attribute>
 	</item>
 	<item id="789" article="an" name="earth clerical mace">
-		<attribute key="primarytype" value="club weapons"/>
-		<attribute key="elementearth" value="5"/>
-		<attribute key="attack" value="23"/>
+		<attribute key="elementearth" value="15"/>
+		<attribute key="attack" value="13"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="weight" value="5800"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost club" value="3"/>
+		</attribute>
 	</item>
 	<item id="790" article="an" name="earth crystal mace">
-		<attribute key="primarytype" value="club weapons"/>
-		<attribute key="elementearth" value="7"/>
-		<attribute key="attack" value="31"/>
+		<attribute key="elementearth" value="21"/>
+		<attribute key="attack" value="17"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="16"/>
 		<attribute key="weight" value="8000"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost club" value="3"/>
+		</attribute>
 	</item>
 	<item id="791" article="an" name="earth cranial basher">
-		<attribute key="primarytype" value="club weapons"/>
-		<attribute key="elementearth" value="8"/>
-		<attribute key="attack" value="36"/>
+		<attribute key="elementearth" value="24"/>
+		<attribute key="attack" value="20"/>
 		<attribute key="extradef" value="-2"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="7800"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost club" value="3"/>
+		</attribute>
 	</item>
 	<item id="792" article="an" name="earth orcish maul">
-		<attribute key="primarytype" value="club weapons"/>
-		<attribute key="elementearth" value="7"/>
-		<attribute key="attack" value="35"/>
+		<attribute key="elementearth" value="21"/>
+		<attribute key="attack" value="21"/>
 		<attribute key="defense" value="18"/>
 		<attribute key="weight" value="5400"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost club" value="3"/>
+		</attribute>
 	</item>
 	<item id="793" article="an" name="earth war hammer">
-		<attribute key="primarytype" value="club weapons"/>
-		<attribute key="elementearth" value="9"/>
-		<attribute key="attack" value="36"/>
+		<attribute key="elementearth" value="27"/>
+		<attribute key="attack" value="18"/>
 		<attribute key="defense" value="10"/>
 		<attribute key="weight" value="8500"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost club" value="3"/>
+		</attribute>
 	</item>
 	<item id="794" article="an" name="energy spike sword">
-		<attribute key="primarytype" value="sword weapons"/>
-		<attribute key="attack" value="24"/>
+	    <attribute key="elementenergy" value="12"/>
+		<attribute key="attack" value="12"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="21"/>
 		<attribute key="weight" value="5000"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost sword" value="3"/>
+		</attribute>
 	</item>
 	<item id="795" article="an" name="energy relic sword">
-		<attribute key="primarytype" value="sword weapons"/>
-		<attribute key="elementenergy" value="8"/>
-		<attribute key="attack" value="34"/>
+		<attribute key="elementenergy" value="24"/>
+		<attribute key="attack" value="18"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="24"/>
 		<attribute key="weight" value="4800"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost sword" value="3"/>
+		</attribute>
 	</item>
 	<item id="796" article="an" name="energy mystic blade">
-		<attribute key="primarytype" value="sword weapons"/>
-		<attribute key="elementenergy" value="8"/>
-		<attribute key="attack" value="36"/>
+		<attribute key="elementenergy" value="24"/>
+		<attribute key="attack" value="20"/>
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="25"/>
 		<attribute key="weight" value="3500"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost sword" value="3"/>
+		</attribute>
 	</item>
 	<item id="797" article="an" name="energy blacksteel sword">
-		<attribute key="primarytype" value="sword weapons"/>
-		<attribute key="elementenergy" value="7"/>
-		<attribute key="attack" value="35"/>
+		<attribute key="elementenergy" value="21"/>
+		<attribute key="attack" value="21"/>
 		<attribute key="defense" value="22"/>
 		<attribute key="weight" value="5900"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost sword" value="3"/>
+		</attribute>
 	</item>
 	<item id="798" article="an" name="energy dragon slayer">
-		<attribute key="primarytype" value="sword weapons"/>
-		<attribute key="elementenergy" value="9"/>
-		<attribute key="attack" value="35"/>
+		<attribute key="elementenergy" value="27"/>
+		<attribute key="attack" value="17"/>
 		<attribute key="defense" value="28"/>
 		<attribute key="weight" value="8200"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost sword" value="3"/>
+		</attribute>
 	</item>
 	<item id="799" name="snow">
 		<attribute key="primarytype" value="natural tiles"/>
 	</item>
 	<item id="800" name="ice"/>
 	<item id="801" article="an" name="energy barbarian axe">
-		<attribute key="primarytype" value="axe weapons"/>
-		<attribute key="elementenergy" value="5"/>
-		<attribute key="attack" value="23"/>
+		<attribute key="elementenergy" value="15"/>
+		<attribute key="attack" value="13"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="18"/>
 		<attribute key="weight" value="5100"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost axe" value="3"/>
+		</attribute>
 	</item>
 	<item id="802" article="an" name="energy knight axe">
-		<attribute key="primarytype" value="axe weapons"/>
-		<attribute key="elementenergy" value="6"/>
-		<attribute key="attack" value="27"/>
+		<attribute key="elementenergy" value="18"/>
+		<attribute key="attack" value="15"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="21"/>
 		<attribute key="weight" value="5900"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost axe" value="3"/>
+		</attribute>
 	</item>
 	<item id="803" article="an" name="energy heroic axe">
-		<attribute key="primarytype" value="axe weapons"/>
-		<attribute key="elementenergy" value="9"/>
-		<attribute key="attack" value="35"/>
+		<attribute key="elementenergy" value="27"/>
+		<attribute key="attack" value="17"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="24"/>
 		<attribute key="weight" value="6100"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost axe" value="3"/>
+		</attribute>
 	</item>
 	<item id="804" article="an" name="energy headchopper">
-		<attribute key="primarytype" value="axe weapons"/>
-		<attribute key="elementenergy" value="8"/>
-		<attribute key="attack" value="34"/>
+		<attribute key="elementenergy" value="24"/>
+		<attribute key="attack" value="18"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="4500"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost axe" value="3"/>
+		</attribute>
 	</item>
 	<item id="805" article="an" name="energy war axe">
-		<attribute key="primarytype" value="axe weapons"/>
-		<attribute key="elementenergy" value="9"/>
-		<attribute key="attack" value="39"/>
+		<attribute key="elementenergy" value="27"/>
+		<attribute key="attack" value="21"/>
 		<attribute key="defense" value="10"/>
 		<attribute key="weight" value="6150"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost axe" value="3"/>
+		</attribute>
 	</item>
 	<item id="806" article="an" name="energy clerical mace">
-		<attribute key="primarytype" value="club weapons"/>
-		<attribute key="elementenergy" value="5"/>
-		<attribute key="attack" value="23"/>
+		<attribute key="elementenergy" value="15"/>
+		<attribute key="attack" value="13"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="weight" value="5800"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost club" value="3"/>
+		</attribute>
 	</item>
 	<item id="807" article="an" name="energy crystal mace">
-		<attribute key="primarytype" value="club weapons"/>
-		<attribute key="elementenergy" value="7"/>
-		<attribute key="attack" value="31"/>
+		<attribute key="elementenergy" value="21"/>
+		<attribute key="attack" value="17"/>
 		<attribute key="extradef" value="1"/>
 		<attribute key="defense" value="16"/>
 		<attribute key="weight" value="8000"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost club" value="3"/>
+		</attribute>
 	</item>
 	<item id="808" article="an" name="energy cranial basher">
-		<attribute key="primarytype" value="club weapons"/>
-		<attribute key="elementenergy" value="8"/>
-		<attribute key="attack" value="36"/>
+		<attribute key="elementenergy" value="24"/>
+		<attribute key="attack" value="20"/>
 		<attribute key="extradef" value="-2"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="7800"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost club" value="3"/>
+		</attribute>
 	</item>
 	<item id="809" article="an" name="energy orcish maul">
-		<attribute key="primarytype" value="club weapons"/>
-		<attribute key="elementenergy" value="7"/>
-		<attribute key="attack" value="35"/>
+		<attribute key="elementenergy" value="21"/>
+		<attribute key="attack" value="21"/>
 		<attribute key="defense" value="18"/>
 		<attribute key="weight" value="5400"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost club" value="3"/>
+		</attribute>
 	</item>
 	<item id="810" article="an" name="energy war hammer">
-		<attribute key="primarytype" value="club weapons"/>
-		<attribute key="elementenergy" value="9"/>
-		<attribute key="attack" value="36"/>
+		<attribute key="elementenergy" value="27"/>
+		<attribute key="attack" value="18"/>
 		<attribute key="defense" value="10"/>
 		<attribute key="weight" value="8500"/>
+		<attribute key="imbuementslot" value="2">
+			<attribute key="life leech" value="3"/>
+			<attribute key="mana leech" value="3"/>
+			<attribute key="critical hit" value="3"/>
+			<attribute key="skillboost club" value="3"/>
+		</attribute>
 	</item>
 	<item id="811" article="a" name="terra mantle">
 		<attribute key="primarytype" value="armors"/>
