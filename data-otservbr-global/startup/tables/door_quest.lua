@@ -723,10 +723,6 @@ QuestDoorAction = {
 		itemId = 1644,
 		itemPos = { { x = 33046, y = 32066, z = 12 } },
 	},
-	[Storage.Quest.U11_50.HiddenThreats.ServantDoor] = {
-		itemId = 1642,
-		itemPos = { { x = 33036, y = 32008, z = 12 } },
-	},
 	[Storage.Quest.U11_50.HiddenThreats.CorymWorksDoor01] = {
 		itemId = 1642,
 		itemPos = { { x = 33025, y = 32008, z = 12 } },
