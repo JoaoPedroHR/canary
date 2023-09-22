@@ -53,6 +53,7 @@ end
 npcHandler:addModule(FocusModule:new(), npcConfig.name, true, true, true)
 
 npcConfig.shop = {
+	{ itemName = "beach backpack", clientId = 5949, sell = 1 },
 	{ itemName = "abomination's eye", clientId = 36792, sell = 650000 },
 	{ itemName = "abomination's tail", clientId = 36791, sell = 700000 },
 	{ itemName = "abomination's tongue", clientId = 36793, sell = 950000 },
