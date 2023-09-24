@@ -142,7 +142,7 @@ function food.onUse(player, item, fromPosition, target, toPosition, isHotkey)
 	end
 	player:feed(itemFood[1] * 12)
 	player:say(itemFood[2], TALKTYPE_MONSTER_SAY)
-	if not foods[item.itemid] == 3595 then
+	if not itemFood[item.itemid] == 32043 then
 		item:remove(1)
 	end
 	player:updateSupplyTracker(item)
