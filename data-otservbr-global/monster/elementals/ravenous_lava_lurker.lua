@@ -80,9 +80,9 @@ monster.loot = {
 }
 
 monster.attacks = {
-	{ name = "melee", interval = 2000, chance = 100, minDamage = 0, maxDamage = -150 },
-	{ name = "ravennouslavalurkerwave", interval = 2000, chance = 15, minDamage = 0, maxDamage = -400, target = false },
-	{ name = "ravennouslavalurkertarget", interval = 2000, chance = 40, minDamage = 0, maxDamage = -400, target = true },
+	{ name = "melee", interval = 2000, chance = 100, minDamage = 0, maxDamage = -185 },
+	{ name = "ravennouslavalurkerwave", interval = 2000, chance = 15, minDamage = -90, maxDamage = -120, target = false },
+	{ name = "ravennouslavalurkertarget", interval = 2000, chance = 40, minDamage = -82, maxDamage = -95, target = true },
 }
 
 monster.defenses = {
