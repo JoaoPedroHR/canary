@@ -69,7 +69,7 @@ npcHandler:addModule(FocusModule:new(), npcConfig.name, true, true, true)
 
 npcConfig.shop = {
 	{ itemName = "battle stone", clientId = 11447, buy = 8000, sell = 4000 },
-	{ itemName = "blazing bone", clientId = 16131, buy = 1500 , sell = 750},
+	{ itemName = "blazing bone", clientId = 16131, buy = 1500, sell = 750 },
 	{ itemName = "bloody pincers", clientId = 9633, buy = 9000, sell = 4500 },
 	{ itemName = "brimstone fangs", clientId = 11702, buy = 18000, sell = 9000 },
 	{ itemName = "brimstone shell", clientId = 11703, buy = 800, sell = 400 },
